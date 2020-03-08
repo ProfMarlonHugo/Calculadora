@@ -13,6 +13,7 @@ namespace ProgCalculadora
             Calculadora calc = new Calculadora();
             calc.addItem(11.1);
             calc.addItem(7);
+            calc.addItem(5);
 
             System.Console.WriteLine(calc.somar());
 
